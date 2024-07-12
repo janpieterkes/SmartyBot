@@ -1,0 +1,16 @@
+{
+  "name": "smartybot",
+  "version": "1.0.0",
+  "description": "A general purpose discord bot for SmartyDEVS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "janpieterkes",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.2.3"
+  }
+}

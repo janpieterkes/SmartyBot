@@ -1,0 +1,11 @@
+{
+    "testingMode" : true,
+    "whitelistedRoles" : ["1135666598330507325","798720417615183916","1101893434970738739","1069747673151844473","1069791481352695828"],
+    "levelChannels" : ["1234074018802438166"],
+    "voiceLevelChannels" : ["1220479914608689173","1234856647554498591"],
+    "suggestionChannelId" : "1223923645689368720",
+    "bugChannelId" : "1223923769085526036",
+    "logsChannelId" : "1226441938433998893",
+    "baseMessageXP" : 15,
+    "aditionalCharacterXP" : 0.5
+}
